@@ -46,16 +46,16 @@ Pull requests are welcome for bug fixes, improvements, or new features. Please c
 
 Feel free to contribute to this project by adding functionalities like:
 
-• Implement task editing feature.
-• Assign priority levels (high, medium, low) to tasks for better organization.
-• Mark tasks as completed with a visual indicator (checkbox, strikethrough).
-• Implement drag-and-drop interaction for reordering tasks in the list
+- Implement task editing feature.
+- Assign priority levels (high, medium, low) to tasks for better organization.
+- Mark tasks as completed with a visual indicator (checkbox, strikethrough).
+- Implement drag-and-drop interaction for reordering tasks in the list
 
 **UI/UX Improvements:**
 
-• Introduce themes or dark mode.
-• Improve task display layout.
-• Add subtle animations.
+- Introduce themes or dark mode.
+- Improve task display layout.
+- Add subtle animations.
 
 ## License
 
